@@ -1,0 +1,39 @@
+h1{
+  font-family: serif;
+  font-size: 50px;
+  font-weight: 100px;
+  color:#02213b;
+  text-align: center;
+  margin-top:5px;
+  margin-bottom:10px;
+  padding: 0px;
+}
+h2{
+  font-family: serif;
+  font-size: 40px;
+  font-weight: 100px;
+  color:#a8005a;
+  text-align:left;
+  margin-top:5px;
+  margin-bottom:10px;
+  padding: 0px;
+}
+h3{
+  font-family:serif;
+  font-size: 30px;
+  font-weight: 100px;
+  color:#023201;
+  text-align:left;
+  margin-top:5px;
+  margin-bottom:10px;
+  padding: 0px;
+}
+p{
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 5px;
+  color:#522c00;
+  text-align: adjust;
+  margin:auto;
+  padding: 0px;
+}
